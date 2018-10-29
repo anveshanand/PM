@@ -117,6 +117,7 @@ public class add_new extends AppCompatActivity {
                 break;
             case R.id.action_logout:
                 //Logout
+                // Add Logout code Here
                 break;
             case R.id.user:
                 //TODO: Check if already Logged In
